@@ -17,4 +17,4 @@ The project contains 48 requirements, functioning done through TFS communication
 </div>
 
 
-
+## For more information about key project operations such as Entity Framework operation or TPS, I put important files that I edited in the 'External Files'
