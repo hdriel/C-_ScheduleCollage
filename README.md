@@ -6,7 +6,7 @@
 
 ## Description
 
-This project was done in the framework of studies, but it was very significant for me, because I did almost all of it all by myself, in all aspects, including the data base, the Entity Framework with bridges, etc.
+This project was done in the framework of studies, but it was very significant for me, because I did almost all of it all by myself, in all aspects, including the Data Base With SQL Server 2008, the Entity Framework with bridges, etc.
 
 The project has the option of connecting via Facebook.
 
