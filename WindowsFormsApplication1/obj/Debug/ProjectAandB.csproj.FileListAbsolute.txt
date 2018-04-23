@@ -1,0 +1,446 @@
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.dll
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.dll
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Json.dll
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Moq.dll
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.xml
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.xml
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Json.pdb
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Moq.xml
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.csprojResolveAssemblyReference.cache
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddConstraint.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.FacebookAccount.Form_FB_LoginDialog.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.AnswerRequests.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.EnterGrades.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.GraderMenu.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.CMessages.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Messages.viewMessages.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleStudent.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuLecturerPractitioner.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarForms.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarMenu.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Registrar_gui.UpdateStudentInfo.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.AddStudentCourse.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudent.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudentCourse.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinatorMenu.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuStudent.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleLessonsByConstraint.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SearchingStudents.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailCourse.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_addCourseToStaffAndStudent.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStaffMember.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStudent.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_LoginStart.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateCourse.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowCoursesRelativeToPersons.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuSecretaryAdmin.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailStudent.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SplashScreen.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentFormsMenu.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentGrades.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentMenu.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentSchedule.resources
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.csproj.GenerateResource.Cache
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Sophie\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.csprojResolveAssemblyReference.cache
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddConstraint.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.FacebookAccount.Form_FB_LoginDialog.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.AnswerRequests.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.EnterGrades.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.GraderMenu.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.CMessages.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Messages.viewMessages.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleStudent.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuLecturerPractitioner.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarForms.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarMenu.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Registrar_gui.UpdateStudentInfo.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.AddStudentCourse.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudent.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudentCourse.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinatorMenu.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuStudent.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleLessonsByConstraint.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SearchingStudents.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailCourse.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_addCourseToStaffAndStudent.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStaffMember.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStudent.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_LoginStart.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateCourse.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowCoursesRelativeToPersons.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuSecretaryAdmin.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailStudent.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SplashScreen.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentFormsMenu.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentGrades.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentMenu.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentSchedule.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.csproj.GenerateResource.Cache
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.dll
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.dll
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Json.dll
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Moq.dll
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.xml
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.xml
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Json.pdb
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Moq.xml
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Migrations.a.resources
+C:\Users\max-\Desktop\ProjectAandB_29.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MySchedule.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Json.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.xml
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.xml
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Json.pdb
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddConstraint.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.FacebookAccount.Form_FB_LoginDialog.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.AnswerRequests.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.EnterGrades.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.GraderMenu.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.CMessages.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Messages.viewMessages.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuLecturerPractitioner.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarForms.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarMenu.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Registrar_gui.UpdateStudentInfo.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.AddStudentCourse.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudentCourse.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinatorMenu.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleLessonsByConstraint.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SearchingStudents.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailCourse.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_addCourseToStaffAndStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStaffMember.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_LoginStart.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateCourse.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowCoursesRelativeToPersons.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuSecretaryAdmin.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MySchedule.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SplashScreen.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentFormsMenu.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentGrades.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentMenu.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentSchedule.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.csproj.GenerateResource.Cache
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Database_General.Form_toastMassage.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.dll
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.dll
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Json.dll
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.xml
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.xml
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Json.pdb
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddConstraint.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Database_General.Form_toastMassage.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.FacebookAccount.Form_FB_LoginDialog.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.AnswerRequests.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.EnterGrades.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.GraderMenu.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.CMessages.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Messages.viewMessages.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleStudent.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuLecturerPractitioner.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarForms.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarMenu.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Registrar_gui.UpdateStudentInfo.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.AddStudentCourse.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudent.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudentCourse.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinatorMenu.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuStudent.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleLessonsByConstraint.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SearchingStudents.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailCourse.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_addCourseToStaffAndStudent.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStaffMember.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStudent.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_LoginStart.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateCourse.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowCoursesRelativeToPersons.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuSecretaryAdmin.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MySchedule.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailStudent.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SplashScreen.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentFormsMenu.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentGrades.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentMenu.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentSchedule.resources
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.csproj.GenerateResource.Cache
+C:\Users\user\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Migrations.a.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\Castle.Core.dll
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\Facebook.dll
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\Json.dll
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\Castle.Core.xml
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\Facebook.xml
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\Json.pdb
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.csprojResolveAssemblyReference.cache
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddConstraint.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Database_General.Form_toastMassage.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.FacebookAccount.Form_FB_LoginDialog.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.AnswerRequests.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.EnterGrades.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.GraderMenu.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.CMessages.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Messages.viewMessages.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleStudent.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuLecturerPractitioner.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarForms.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarMenu.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Registrar_gui.UpdateStudentInfo.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.AddStudentCourse.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudent.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudentCourse.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinatorMenu.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuStudent.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleLessonsByConstraint.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SearchingStudents.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailCourse.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_addCourseToStaffAndStudent.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStaffMember.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStudent.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_LoginStart.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateCourse.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowCoursesRelativeToPersons.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuSecretaryAdmin.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MySchedule.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailStudent.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SplashScreen.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentFormsMenu.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentGrades.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentMenu.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentSchedule.resources
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\ProjectAandB.csproj.GenerateResource.Cache
+C:\Users\Sophie\Downloads\09-06-17_LubaUnitTests\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Migrations.a.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.dll
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.dll
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Json.dll
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.xml
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.xml
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Json.pdb
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddConstraint.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Database_General.Form_toastMassage.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.FacebookAccount.Form_FB_LoginDialog.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.AnswerRequests.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.EnterGrades.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.GraderMenu.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.CMessages.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Messages.viewMessages.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Migrations.a.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleStudent.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuLecturerPractitioner.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarForms.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarMenu.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Registrar_gui.UpdateStudentInfo.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.AddStudentCourse.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudent.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudentCourse.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinatorMenu.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuStudent.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleLessonsByConstraint.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SearchingStudents.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailCourse.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_addCourseToStaffAndStudent.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStaffMember.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStudent.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_LoginStart.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateCourse.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowCoursesRelativeToPersons.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuSecretaryAdmin.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MySchedule.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailStudent.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SplashScreen.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentFormsMenu.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentGrades.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentMenu.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentSchedule.resources
+C:\Users\Arthur\Source\Repos\2017_BS_project10\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProjectAandB.csproj.GenerateResource.Cache
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Castle.Core.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Facebook.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Json.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Castle.Core.xml
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Facebook.xml
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Json.pdb
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.csprojResolveAssemblyReference.cache
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddConstraint.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Database_General.Form_toastMassage.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.FacebookAccount.Form_FB_LoginDialog.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.AnswerRequests.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.EnterGrades.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.GraderMenu.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.CMessages.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Messages.viewMessages.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuLecturerPractitioner.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarForms.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarMenu.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Registrar_gui.UpdateStudentInfo.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.AddStudentCourse.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudentCourse.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinatorMenu.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleLessonsByConstraint.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SearchingStudents.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailCourse.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_addCourseToStaffAndStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStaffMember.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_LoginStart.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateCourse.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowCoursesRelativeToPersons.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuSecretaryAdmin.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MySchedule.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailStudent.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SplashScreen.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentFormsMenu.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentGrades.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentMenu.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentSchedule.resources
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.csproj.GenerateResource.Cache
+C:\Users\max-\Source\Repos\2017_BS_project10\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Migrations.a.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Castle.Core.dll
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Facebook.dll
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Json.dll
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Castle.Core.xml
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Facebook.xml
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Json.pdb
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.csprojResolveAssemblyReference.cache
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddConstraint.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Database_General.Form_toastMassage.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.FacebookAccount.Form_FB_LoginDialog.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.AnswerRequests.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Grader_gui.EnterGrades.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.GraderMenu.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.CMessages.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Messages.viewMessages.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Migrations.a.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleStudent.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuLecturerPractitioner.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarForms.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.RegistrarMenu.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Registrar_gui.UpdateStudentInfo.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.AddStudentCourse.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudent.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinator_gui.RemoveStudentCourse.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentCoordinatorMenu.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuStudent.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ScheduleLessonsByConstraint.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SearchingStudents.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailCourse.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_addCourseToStaffAndStudent.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStaffMember.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateStudent.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_LoginStart.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_AddUpdateCourse.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowCoursesRelativeToPersons.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MenuSecretaryAdmin.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_MySchedule.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_ShowDetailStudent.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Form_SplashScreen.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentFormsMenu.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentGrades.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.StudentMenu.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.Student_gui.StudentSchedule.resources
+C:\Users\Sophie\Downloads\FINAL PROJECT10 12.06.2017\TextToHebrew 11.6.17 8.48PM\WindowsFormsApplication1\obj\Debug\ProjectAandB.csproj.GenerateResource.Cache

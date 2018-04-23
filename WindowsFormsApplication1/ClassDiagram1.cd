@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjectAandB.Admin">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIBwAC5AgAQAATAAIiAIMAIAEIBAAAIIAAAACAA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.ApprovalOfLecture">
+    <Position X="5.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEACACAAAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApprovalOfLecture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.ApprovalOfPractitioner">
+    <Position X="11.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAACAAAAAAAAAIAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>ApprovalOfPractitioner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.ClassRoom">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAQAAAAIAAIAAAAAAAAAAAAAAAAABiAAA=</HashCode>
+      <FileName>ClassRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.ConstrainLecturerCourse">
+    <Position X="7.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEACAAAAAAAAAAAIQAEAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>ConstrainLecturerCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Constraint">
+    <Position X="8.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAAAAISAAgAAAAAEAAQAABAAAAAAAAACAAgCAAAA=</HashCode>
+      <FileName>Constraint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.ConstraintPractitionerCourse">
+    <Position X="9.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAIQAAAAAAAAAAAAQAiAACAAAAAA=</HashCode>
+      <FileName>ConstraintPractitionerCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Course">
+    <Position X="2.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEAIACAAgBgAAAAABAAQwABCAACCAAAAAAAACAAAA=</HashCode>
+      <FileName>Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.DbContextDal" Collapsed="true">
+    <Position X="28.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAIAAEAAgAAAAAAAAAAAAFCECCWIAEAAQAACCAAA=</HashCode>
+      <FileName>DbContextDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Enrollment">
+    <Position X="5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAQAAAAAAAAIAAAAAAAAAAAAAAAAAAAAECAAA=</HashCode>
+      <FileName>Enrollment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_AddConstraint" Collapsed="true">
+    <Position X="28.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABA4ABAIACAgBBgAgACAGJj6qwAAIcBIACCQIIAYARI=</HashCode>
+      <FileName>Form_AddConstraint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_addCourseToStaffAndStudent" Collapsed="true">
+    <Position X="30.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAWhQzKggAxAIAnCIHAj6gxWAAAAAEjSJoCBBQUg=</HashCode>
+      <FileName>Form_addCourseToStaffAndStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_AddUpdateCourse" Collapsed="true">
+    <Position X="30" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8gAgCAgQCComARQABFiADAj+xwEAAABAEMiQSABABUA=</HashCode>
+      <FileName>Form_AddUpdateCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_AddUpdateStaffMember" Collapsed="true">
+    <Position X="26.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hBgoAAiIKCAjAxQwoACQBADmRxECQAAEAoyQCCAMD0A=</HashCode>
+      <FileName>Form_AddUpdateStaffMember.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_AddUpdateStudent" Collapsed="true">
+    <Position X="25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAgoAgiIKCgCIxQQIACABAD+BxEATAIEAIgYCCAGD8I=</HashCode>
+      <FileName>Form_AddUpdateStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_LoginStart" Collapsed="true">
+    <Position X="26.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAQAAAACAEABAACACBAAAKAAAAAAAAAAAIDBAAAQA=</HashCode>
+      <FileName>Form_LoginStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_MenuLecturerPractitioner" Collapsed="true">
+    <Position X="28.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEwAgQAgCAgAFAQAAGAAAiCBCAAAAAAACCAAAAAAQA=</HashCode>
+      <FileName>Form_MenuLecturerPractitioner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_MenuSecretaryAdmin" Collapsed="true">
+    <Position X="30.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEwAgQAACAAEVAQEAGAAAiCACEIBAAAAGAAAAAAAQA=</HashCode>
+      <FileName>Form_MenuSecretaryAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_MenuStudent" Collapsed="true">
+    <Position X="29.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAgQAACAAEFAQAAGAAAiCACAIAAAAACAAAAAAAQA=</HashCode>
+      <FileName>Form_MenuStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_ScheduleLessonsByConstraint" Collapsed="true">
+    <Position X="27.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCgUAsYgCAxCRABkAjQWInCoDUzKQBgODDUZokICTA=</HashCode>
+      <FileName>Form_ScheduleLessonsByConstraint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_SearchingStudents" Collapsed="true">
+    <Position X="25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJCgIIgAQCACY0iCAACAABDyAxFCQCCgGGBACAAGBYA=</HashCode>
+      <FileName>Form_SearchingStudents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_ShowCoursesRelativeToPersons" Collapsed="true">
+    <Position X="26.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKIpCFCAEOEgAVKgJBCYCACC4wMEECDgAGaQKmBAj8A=</HashCode>
+      <FileName>Form_ShowCoursesRelativeToPersons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_ShowDetailCourse" Collapsed="true">
+    <Position X="28.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAgJCAAECQAQgCAACAQAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Form_ShowDetailCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_ShowDetailStudent" Collapsed="true">
+    <Position X="30.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQEAgIACAAA0AQAFCCAAjiAxCgQBAAACAIAAAEAAA=</HashCode>
+      <FileName>Form_ShowDetailStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Form_SplashScreen" Collapsed="true">
+    <Position X="29.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACAAAAAAAACAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form_SplashScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.FormMenu" Collapsed="true">
+    <Position X="30.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HQCtFAAgACRACBYihBiSEQEiA4gKEAqGBmQIARSAaDs=</HashCode>
+      <FileName>FormMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.GeneralFuntion" Collapsed="true">
+    <Position X="25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAQAAAQBAAAAAACAAAgAAAAAABBAQAAgAQ=</HashCode>
+      <FileName>GeneralFuntion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.ItemSchduleHourInWeek" Collapsed="true">
+    <Position X="26.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAIAACAQAAAAAAAAACAAIACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ItemSchduleHourInWeek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Lab">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAAAAAAAAAAIAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Lab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Lecture">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAgAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lecture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Lecturer">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAABiAAAAABgEYAAAABACBCAAAQAAAAAAgAAAAII=</HashCode>
+      <FileName>Lecturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Lesson">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAYAABAAICAAYIAACAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Lesson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Practitioner">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAIBgAAABABAGYACAABACCAAACQAAAAABAACAAII=</HashCode>
+      <FileName>Practitioner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Program" Collapsed="true">
+    <Position X="28.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Secretary">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIBwAC5AgAQAATAAIiAIMAIAEIBAAAIAAAAACAA=</HashCode>
+      <FileName>Secretary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.SettingDatabase" Collapsed="true">
+    <Position X="28.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xQQCAQPKJRIAkAU6EMCwIQAAQUCAME0ABRQgDCgAGAA=</HashCode>
+      <FileName>SettingDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.StaffMember">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgACAAEAAAAQAAAAAAAAAAQAAIAIAAQA=</HashCode>
+      <FileName>StaffMember.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Student">
+    <Position X="0.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAgACACEAAAAwAAAAAADgAQAAAIAAAAQA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Practise">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAAAAAAAAAAIAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Practise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.User">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAgAAAAAAAAAAAAAAAAAAAIAAAAgAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Migrations.Configuration" Collapsed="true">
+    <Position X="26.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Migrations\Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Properties.Resources" Collapsed="true">
+    <Position X="30.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectAandB.Properties.Settings" Collapsed="true">
+    <Position X="28.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="9" />
+</ClassDiagram>
